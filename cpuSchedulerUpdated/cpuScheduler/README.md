@@ -383,7 +383,7 @@ System tests verify end-to-end functionality:
 
 [Add team member names and roles here]
 - Emmanuel Olayemi - Project Lead, Core Architecture
-- Team Member 2 - Scheduling Algorithms Implementation and Testing and Documentation
+- Cyril Ekokwe - Scheduling Algorithms Implementation Testing, Documentation and Presentation
  
 
 ## License
