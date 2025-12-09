@@ -6,7 +6,7 @@
 **Type**: Operating Systems Course Project  
 **Language**: C++17  
 **Platform**: FreeBSD/Unix  
-**Status**: ✅ Complete and Production-Ready  
+**Status**: Complete and Production-Ready  
 
 ## What This Project Does
 
@@ -19,25 +19,25 @@ This is a comprehensive simulation of CPU scheduling algorithms used in modern o
 
 ## Implemented Algorithms (Meeting All Requirements)
 
-### ✅ 1. Round Robin (RR)
+### 1. Round Robin (RR)
 - **Type**: Preemptive scheduling
 - **Key Feature**: Configurable time quantum
 - **Use Case**: Time-sharing systems
 - **Implementation**: Circular FIFO queue with quantum-based preemption
 
-### ✅ 2. Priority Scheduling (Both Modes)
+### 2. Priority Scheduling (Both Modes)
 - **Non-Preemptive**: Runs processes to completion based on priority
 - **Preemptive**: Can interrupt lower-priority processes
 - **Key Feature**: Aging mechanism to prevent starvation
 - **Use Case**: Real-time and critical process management
 
-### ✅ 3. Multilevel Queue (MLQ)
+### 3. Multilevel Queue (MLQ)
 - **Type**: Multiple ready queues with different policies
 - **Key Feature**: Processes permanently assigned to queues
 - **Configuration**: Each queue can use RR or FCFS
 - **Use Case**: Systems with distinct process classes (foreground/background)
 
-### ✅ 4. Multilevel Feedback Queue (MLFQ)
+### 4. Multilevel Feedback Queue (MLFQ)
 - **Type**: Dynamic priority adjustment
 - **Key Feature**: Processes move between queues based on behavior
 - **Innovation**: Automatic CPU-bound vs I/O-bound detection
@@ -45,22 +45,22 @@ This is a comprehensive simulation of CPU scheduling algorithms used in modern o
 
 ## Key Features Implemented
 
-### Required Features ✅
-- ✅ Multiple scheduling algorithms
-- ✅ Process creation with priorities, burst times, arrival times
-- ✅ Dynamic process arrival
-- ✅ Context switch simulation with overhead
-- ✅ Real-time visualization (text-based Gantt charts)
-- ✅ Performance metrics calculation
-- ✅ Starvation prevention (aging mechanism)
+### Required Features 
+- Multiple scheduling algorithms
+- Process creation with priorities, burst times, arrival times
+- Dynamic process arrival
+- Context switch simulation with overhead
+- Real-time visualization (text-based Gantt charts)
+- Performance metrics calculation
+- Starvation prevention (aging mechanism)
 
-### Additional Features ⭐
-- ⭐ Comprehensive test suite with 16+ test cases
-- ⭐ Interactive menu system
-- ⭐ Algorithm comparison mode
-- ⭐ Extensive documentation (4000+ lines)
-- ⭐ Professional code structure
-- ⭐ Complete Makefile with multiple targets
+### Additional Features 
+- Comprehensive test suite with 16+ test cases
+- Interactive menu system
+- Algorithm comparison mode
+- Extensive documentation (4000+ lines)
+- Professional code structure
+- Complete Makefile with multiple targets
 
 ## Project Structure
 
@@ -114,11 +114,11 @@ make help     # Display all targets
 ```
 
 ### Build Features
-- ✅ Separate compilation for fast rebuilds
-- ✅ Automatic dependency management
-- ✅ Color-coded output
-- ✅ Debug and release configurations
-- ✅ Professional directory structure
+- Separate compilation for fast rebuilds
+- Automatic dependency management
+- Color-coded output
+- Debug and release configurations
+- Professional directory structure
 
 ## Testing
 
@@ -182,13 +182,13 @@ Edge Case Tests:            3/3 PASSED ✓
 ## Code Quality
 
 ### Software Engineering Practices
-- ✅ Object-Oriented Design (OOP)
-- ✅ SOLID Principles
-- ✅ Design Patterns (Template Method, Strategy)
-- ✅ Smart Pointers (No manual memory management)
-- ✅ STL Containers (Modern C++)
-- ✅ Exception Safety
-- ✅ Const Correctness
+- Object-Oriented Design (OOP)
+- SOLID Principles
+- Design Patterns (Template Method, Strategy)
+- Smart Pointers (No manual memory management)
+- STL Containers (Modern C++)
+- Exception Safety
+- Const Correctness
 
 ### Code Metrics
 - **Total Lines**: ~5000 lines
@@ -201,25 +201,25 @@ Edge Case Tests:            3/3 PASSED ✓
 ## Academic Compliance
 
 ### Project Requirements Met
-✅ Developed exclusively in C++  
-✅ Tested in FreeBSD/Unix environment  
-✅ vi/vim for editing (compatible)  
-✅ Make build system  
-✅ GitHub repository ready  
+Developed exclusively in C++  
+Tested in FreeBSD/Unix environment  
+vi/vim for editing (compatible)  
+Make build system  
+GitHub repository ready  
 
 ### Submission Components
-✅ Source Code (well-organized)  
-✅ Makefile (comprehensive)  
-✅ Test Cases (16+ tests)  
-✅ README File (detailed)  
-✅ Documentation (extensive)  
+Source Code (well-organized)  
+Makefile (comprehensive)  
+Test Cases (16+ tests)  
+README File (detailed)  
+Documentation (extensive)  
 
 ### Professional Standards
-✅ Clean file structure (src/, include/, test/, doc/)  
-✅ Build targets (build, debug, test, clean, install)  
-✅ Testing framework (unit & system tests)  
-✅ Comprehensive documentation  
-✅ Version control ready  
+Clean file structure (src/, include/, test/, doc/)  
+Build targets (build, debug, test, clean, install)  
+Testing framework (unit & system tests)  
+Comprehensive documentation  
+Version control ready  
 
 ## Why This is the Easiest Project
 
@@ -247,13 +247,13 @@ make build
 ## Learning Outcomes
 
 By completing this project, you will:
-- ✅ Understand CPU scheduling algorithms in depth
-- ✅ Master process states and transitions
-- ✅ Learn performance metric calculation
-- ✅ Experience with queues and priority queues
-- ✅ Practice professional C++ development
-- ✅ Gain build system expertise (Make)
-- ✅ Understand testing methodologies
+- Understand CPU scheduling algorithms in depth
+- Master process states and transitions
+- Learn performance metric calculation
+- Experience with queues and priority queues
+- Practice professional C++ development
+- Gain build system expertise (Make)
+- Understand testing methodologies
 
 ## Future Enhancements (Optional)
 
@@ -277,12 +277,12 @@ Possible extensions for extra credit:
 ## Success Indicators
 
 Your project is successful when:
-- ✅ Code compiles without errors
-- ✅ All tests pass
-- ✅ Interactive menu works smoothly
-- ✅ Results match theoretical expectations
-- ✅ Code is well-documented
-- ✅ Build system is professional
+- Code compiles without errors
+- All tests pass
+- Interactive menu works smoothly
+- Results match theoretical expectations
+- Code is well-documented
+- Build system is professional
 
 ## Conclusion
 
