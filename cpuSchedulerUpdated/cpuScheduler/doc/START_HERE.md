@@ -1,13 +1,13 @@
-# 🚀 START HERE - CPU Scheduler Simulator
+# START HERE - CPU Scheduler Simulator
 
 Welcome to the **easiest and most complete** Operating Systems project!
 
-## ⚡ Quick Navigation
+## Quick Navigation
 
-### 📋 New to this project?
+### New to this project?
 **Read these in order:**
 
-1. **[PROJECT_DELIVERABLES.md](PROJECT_DELIVERABLES.md)** ⭐ START HERE FIRST
+1. **[PROJECT_DELIVERABLES.md](PROJECT_DELIVERABLES.md)** START HERE FIRST
    - Why this is the easiest project
    - Complete overview of what you're getting
    - All requirements checklist
@@ -22,7 +22,7 @@ Welcome to the **easiest and most complete** Operating Systems project!
    - Algorithm descriptions
    - Usage examples
 
-### 🔨 Ready to build?
+### Ready to build?
 
 ```bash
 # Three commands to get started:
@@ -31,7 +31,7 @@ make build          # Compile the project
 make test          # Run all tests
 ```
 
-### 📚 Want to understand the code?
+### Want to understand the code?
 
 1. **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)**
    - High-level architecture
@@ -48,13 +48,13 @@ make test          # Run all tests
    - Development process
    - Lessons learned
 
-### 🧪 Testing and Verification
+### Testing and Verification
 
 - **[test/test_scheduler.cpp](test/test_scheduler.cpp)** - Complete test suite
 - Run: `make test`
 - 16+ comprehensive test cases included
 
-### 📖 Complete File Structure
+### Complete File Structure
 
 ```
 cpu-scheduler-simulator/
@@ -94,34 +94,34 @@ cpu-scheduler-simulator/
 └── LICENSE                          ← (add your license)
 ```
 
-## 🎯 What You Get
+## What You Get
 
-### ✅ Complete Implementation
+### Complete Implementation
 - 4 scheduling algorithms (5 variants)
 - 1,530 lines of source code
 - 620 lines of header files
 - 500 lines of tests
 - Professional quality code
 
-### ✅ Comprehensive Documentation
+### Comprehensive Documentation
 - 2,500+ lines of documentation
 - Multiple guides for different purposes
 - Every function documented
 - Architecture explained
 
-### ✅ Professional Build System
+### Professional Build System
 - Makefile with 7 targets
 - Clean/Build/Test/Debug/Install
 - Automatic dependency management
 - Color-coded output
 
-### ✅ Testing Framework
+### Testing Framework
 - 16+ test cases
 - Unit tests
 - Integration tests
 - Edge case coverage
 
-## 🚦 Your Next Steps
+## Your Next Steps
 
 ### Option 1: I want to understand everything
 1. Read PROJECT_DELIVERABLES.md
@@ -145,7 +145,7 @@ cpu-scheduler-simulator/
 4. Push all files
 5. Submit!
 
-## 💡 Key Features
+## Key Features
 
 ### Interactive Menu System
 ```
@@ -176,7 +176,7 @@ Select a scheduling algorithm:
 - Formatted result tables
 - Process state visualization
 
-## 🏆 Why This Project is Perfect
+## Why This Project is Perfect
 
 1. **Easiest of 8 options** - Well-defined, deterministic
 2. **Complete** - All requirements met
@@ -184,8 +184,6 @@ Select a scheduling algorithm:
 4. **Tested** - Comprehensive test suite
 5. **Documented** - Everything explained
 6. **Ready** - Can submit immediately
-
-## ❓ Need Help?
 
 ### Quick Answers
 - **Build error?** → See GETTING_STARTED.md troubleshooting
@@ -203,7 +201,7 @@ Development:     IMPLEMENTATION_GUIDE.md
 Deliverables:    PROJECT_DELIVERABLES.md
 ```
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **Total Lines**: ~5,000 (code) + 2,500 (docs)
 - **Files**: 20+
@@ -212,16 +210,16 @@ Deliverables:    PROJECT_DELIVERABLES.md
 - **Build Targets**: 7
 - **Algorithms**: 4 (with 5 variants)
 
-## ✨ Special Features
+## Special Features
 
-- ⭐ Comparison mode (side-by-side analysis)
-- ⭐ Aging mechanism (prevents starvation)
-- ⭐ Context switch simulation
-- ⭐ Dynamic process arrival
-- ⭐ Configurable parameters
-- ⭐ Gantt chart visualization
+- Comparison mode (side-by-side analysis)
+- Aging mechanism (prevents starvation)
+- Context switch simulation
+- Dynamic process arrival
+- Configurable parameters
+- Gantt chart visualization
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 By working with this project, you will:
 - Master CPU scheduling algorithms
@@ -231,23 +229,23 @@ By working with this project, you will:
 - Experience professional code structure
 - Gain testing experience
 
-## 📞 Support
+## Support
 
 1. Read the documentation (it's comprehensive!)
 2. Check the code comments (extensively documented)
 3. Run the examples (multiple test cases)
 4. Experiment (modify and test)
 
-## 🎉 Success Indicators
+## Success Indicators
 
 You know it's working when:
-- ✅ `make build` completes without errors
-- ✅ `make test` shows passing tests
-- ✅ `./bin/scheduler_sim` runs and shows menu
-- ✅ All algorithms produce correct output
-- ✅ Metrics match theoretical expectations
+- 'make build` completes without errors
+- 'make test` shows passing tests
+- `./bin/scheduler_sim` runs and shows menu
+- All algorithms produce correct output
+- Metrics match theoretical expectations
 
-## 🚀 Get Started Now!
+## Get Started Now!
 
 ```bash
 # Clone or navigate to project
@@ -262,20 +260,20 @@ make build
 # Test it
 make test
 
-# Success! 🎉
+# Success! 
 ```
 
 ---
 
-## 📝 Final Notes
+## Final Notes
 
 **This is a complete, professional, production-ready project.**
 
-- All requirements met ✅
-- Extensively tested ✅
-- Thoroughly documented ✅
-- Ready to submit ✅
-- Easiest option ✅
+- All requirements met 
+- Extensively tested 
+- Thoroughly documented 
+- Ready to submit 
+- Easiest option 
 
 **Estimated grade: 95-100% (A)**
 
@@ -283,8 +281,4 @@ make test
 
 **Ready to begin?**
 
-👉 **Start with [PROJECT_DELIVERABLES.md](PROJECT_DELIVERABLES.md)**
-
-Then follow the guide that matches your needs!
-
-Good luck! 🍀
+**Start with [PROJECT_DELIVERABLES.md](PROJECT_DELIVERABLES.md)**
